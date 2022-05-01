@@ -1,16 +1,27 @@
-### Hi there 👋
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Welcome!&fontSize=90&desc=JewooPark%27s+GitHub+Profile&descAlign=60&descAlignY=65)
 
-<!--
-**zeunala/zeunala** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+안녕하세요! 현재 백엔드를 공부하고 있는 박제우입니다! <br>
+매일매일 꾸준히 성장하는 개발자를 목표로 하고 있습니다.
+</p>
 
-Here are some ideas to get you started:
+<br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+	<strong>💎 Tech Stack 💎</strong> <br>
+	<img  src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+	<img  src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white">
+	<img  src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
+	<img  src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"> <br>
+	<img  src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+	<img  src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+	<img  src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+	
+</p>
+
+<br>
+
+<p align="center">
+	<strong>✉ Email ✉</strong> <br>
+	zeunala@naver.com
+</p>
