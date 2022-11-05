@@ -1,7 +1,7 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Welcome!&fontSize=90&desc=+GitHub+Profile&descAlign=60&descAlignY=65)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Welcome!&fontSize=90&desc=JewooPark%27s+GitHub+Profile&descAlign=60&descAlignY=65)
 
 <p align="center">
-안녕하세요! 현재 백엔드를 공부하고 있는 학생입니다! <br>
+안녕하세요! 현재 백엔드를 공부하고 있는 박제우입니다! <br>
 매일매일 꾸준히 성장하는 개발자를 목표로 하고 있습니다.
 </p>
 
